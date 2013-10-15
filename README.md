@@ -1,5 +1,8 @@
 # arg.js
 
+ccwq 2013年10月15日11:42:27
+arg.js ， 这个库可以帮助你快速解析 URL 变量和参数 。 h
+
 Arg.js gives you quick and easy access to parameters in the URL.
 
   * [Installing](#installing)
